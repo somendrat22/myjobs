@@ -1,0 +1,33 @@
+.posts{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1440px;
+    margin-left: -97px;
+    margin-top: -97px;
+    margin-right: auto;
+}
+.posted-job-text{
+    top: 122px;
+    left: 173px;
+    width: 201px;
+    height: 26px;
+    color: var(--unnamed-color-ffffff);
+    text-align: left;
+    font: normal normal medium 22px/27px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    margin-left: 90px;
+    opacity: 1;
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-top: 23px;
+}
+.feeds-home{
+    top: 83px;
+    left: 173px;
+    width: 48px;
+    height: 15px;
+    opacity: 1;
+    margin-left: 79px;
+    margin-top: 10px;
+}
